@@ -1,2 +1,0 @@
-class CommandMoveUp(pm: PlayerManager) {
-}
