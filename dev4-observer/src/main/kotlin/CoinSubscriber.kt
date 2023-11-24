@@ -1,3 +1,3 @@
-class CoinSubscriber(val name: String) {
+class CoinSubscriber(val coin: String) {
 
 }
